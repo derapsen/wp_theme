@@ -1,0 +1,133 @@
+body
+{
+    font-size: 12px;
+    background-color: #EFEFEF;
+}
+
+.row
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contents_width
+{
+    width: 100%;
+    max-width: 1000px;
+}
+.grid_width
+{
+    width: 100%;
+    max-width: 950px;
+}
+
+.head_titleBox
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.head_title
+{
+    font-size: 2.8em;
+}
+
+.head_subBox
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.head_subTitle
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.9em;
+}
+.head_navBox
+{
+    font-size: 1.1em;
+}
+.head_nav_link
+{
+    text-decoration: underline;
+}
+
+.main_titleBox
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+}
+.main_title
+{
+    font-size: 5em;
+}
+.main_imgBox
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.main_text_row
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.main_text_last
+{
+    margin-bottom: 0;
+}
+
+.grid_row
+{
+    padding-bottom: 40px;
+}
+.grid_titleBox
+{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.grid_title
+{
+    font-size: 2.8em;
+}
+.grid_categoryBox
+{
+    background-color: #FFF;
+    font-size: 1.1em;
+}
+.grid_partsBox
+{
+    margin-bottom: 40px;
+}
+.row_eq_height
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid_part
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 1px solid #FFF;
+}
+.grid_part_imgBox
+{
+    width: 100%;
+    height: 170px;
+    background-color: #BCBCBC;
+}
+.grid_part_textBox
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.grid_part_title
+{
+    margin-bottom: 20px;
+    font-size: 1.4em;
+}
+
+footer
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
